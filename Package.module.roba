@@ -1,0 +1,7 @@
+{
+	"Name": "testpa",
+	"SourceType": "Online",
+	"PackageId": "itmakesmefeel",
+	"Version": 1302000,
+	"EntryPoint": "https://raw.githubusercontent.com/denezgo/robatestpackage/master/Module.modulescript.luau"
+}
