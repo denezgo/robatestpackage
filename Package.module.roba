@@ -1,7 +1,9 @@
 {
-	"Name": "testpa",
+	"Name": "test",
 	"SourceType": "Online",
-	"PackageId": "itmakesmefeel",
-	"Version": 1302000,
+	"PackageId": "test.roba",
+	"Version": 1,
+	"Description": "Test Roba package",
+	"TargetRoba": 20260713.3,
 	"EntryPoint": "https://raw.githubusercontent.com/denezgo/robatestpackage/master/Module.modulescript.luau"
 }
