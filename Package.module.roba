@@ -2,8 +2,14 @@
 	"Name": "test",
 	"SourceType": "Online",
 	"PackageId": "test.roba",
-	"Version": 1,
+	"LatestVersion": 1,
 	"Description": "Test Roba package",
-	"TargetRoba": 20260713.3,
-	"EntryPoint": "https://raw.githubusercontent.com/denezgo/robatestpackage/master/Module.modulescript.luau"
+	"Env": "Any",
+	"Versions": [
+		{
+			"Version": 1,
+			"EntryPoint": "https://raw.githubusercontent.com/denezgo/robatestpackage/master/Module.modulescript.luau",
+			"TargetRoba": 20260714
+		}
+	]
 }
