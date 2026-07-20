@@ -1,14 +1,13 @@
 {
 	"Name": "test",
-	"ManifestVersion": 20260716,
-	"LatestVersion": 1,
+	"ManifestVersion": "1.1.0",
+	"LatestVersion": "1",
 	"Description": "Test Roba package",
 	"Env": "Any",
 	"Versions": [
 		{
-			"Version": 1,
-			"EntryPoint": "https://raw.githubusercontent.com/denezgo/robatestpackage/master/Module.modulescript.luau",
-			"TargetRoba": 20260716
+			"Version": "1",
+			"TargetRoba": "1.1.0"
 		}
 	]
 }
