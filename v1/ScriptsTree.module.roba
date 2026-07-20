@@ -1,0 +1,6 @@
+[
+    {
+        "Type": "ModuleScript",
+        "Name": "EntryPoint.module.luau"
+    }
+]
